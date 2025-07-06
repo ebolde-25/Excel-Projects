@@ -5,8 +5,10 @@ ___
 > Individual Project
 >> *Goal* of this project was to show how Excel can be used to turn raw data into actionable insights. This is a hands-on demonstration of my skill in data handling, analysis and visualisation.  
 >> *Key Content:* Open up the file and you will find a variety of worksheets that walk through data cleaning, key statistics, pivot tables, and interactive dashboards.  
-![Video Games Sales Dashboard!](https://drive.google.com/file/d/1iwWE2kdhx6Vu1SpcwOcwS1oeFS931gXd/view?usp=sharing)
+![VG Sales Dashboard!](https://github.com/ebolde-25/Excel-Projects/blob/470e555603c495c6f857a48b5b486cc87d0bdb43/Images/Excel_SC.PNG)
 ___
 > Group Project
 ## Tool Used
 1. Excel
+2. Power Query
+
