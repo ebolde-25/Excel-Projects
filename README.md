@@ -13,8 +13,8 @@ ___
 > - **Activision** has the highest sum of sales across all regions, with a large portion coming from NA Sales (North America)
 > - **Electronic Arts** also shows strong global sales, with a considerable sum from NA Sales and EU Sales (Europe)
 > - **Nintendo** has a good distribution across NA, EU, and JP (Japan) sales
-> - **Take-Two** Interactive and Ubisoft show smaller global sales compared to the top three, but with varying regional distributions   
-**4.** Regional Sales Distribution: The **Total Regional Sales ($)** pie chart indicates that NA Sales (1133) represent the largest portion of regional sales, followed by EU Sales (879) and JP Sales (209). Other sales are a smaller slice (299). This suggests North America is the primary market by sales volume shown   
+> - **Take-Two** Interactive and Ubisoft show smaller global sales compared to the top three, but with varying regional distributions
+4. Regional Sales Distribution: The **Total Regional Sales ($)** pie chart indicates that NA Sales (1133) represent the largest portion of regional sales, followed by EU Sales (879) and JP Sales (209). Other sales are a smaller slice (299). This suggests North America is the primary market by sales volume shown   
 5. Global Sales by Genre:
 > - **Action** is by far the highest-selling genre with 673 units.
 > - **Sports** (125) and **Shooter** (71) are also significant genres.
